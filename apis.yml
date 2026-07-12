@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://crafatar.com
 common:
+  - type: DomainSecurity
+    url: security/crafatar-domain-security.yml
   - type: Website
     url: https://crafatar.com
   - type: PublicAPIsListing
