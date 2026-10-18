@@ -41,7 +41,8 @@ apis:
   - name: Crafatar
     description: "API for Minecraft skins and faces"
     humanURL: https://crafatar.com
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
